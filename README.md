@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZackDevs
 - 👀 I’m interested in coding and anime
-- 🌱 I’m currently learning JS lol
+- 🌱 I currently only work with JS (2 years of experience)
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me Discord samsam#0888
 
